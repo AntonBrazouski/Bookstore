@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     # Lockal
     'todos.apps.TodosConfig',
     'users.apps.UsersConfig',
+
     'pages.apps.PagesConfig',
 ]
 
