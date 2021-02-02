@@ -41,10 +41,11 @@ INSTALLED_APPS = [
     # Third-party
     'crispy_forms',
 
-    # Lockal
+    # Local
     'todos.apps.TodosConfig',
     'users.apps.UsersConfig',
     'pages.apps.PagesConfig',
+    'books.apps.BooksConfig',
 ]
 
 # django-crispy-forms
